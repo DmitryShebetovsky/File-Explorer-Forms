@@ -1,0 +1,9 @@
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe.config
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csprojResolveAssemblyReference.cache
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+c:\users\sheb_fb50\documents\visual studio 2013\Projects\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Form1.resources
